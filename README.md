@@ -6,6 +6,8 @@ This is my first Git Repository in which I have created an amazon clone using HT
 
 Replicates the layout and design of the original website
 
+As of now it contains only the clone of home page
+
 ## Contributing
 
 Fork the repository
